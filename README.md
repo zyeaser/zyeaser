@@ -1,4 +1,4 @@
-# Hi, I'm Zubayer Yeaser 👋
+# Hi, I'm Zubayer Yeaser 
 
 🎓 PhD Student @ UW–Madison  
 🔬 Research: Structural Reliability of Composite Joist Systems  
@@ -9,7 +9,6 @@
 ## ⚙️ Current Work
 - Composite Joist Reliability (FE + probabilistic modeling)
 - GPU acceleration (Julia + CUDA)
-- Abaqus ODB diagnostic automation tools
 
 ---
 
