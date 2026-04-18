@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 Current Work
+## ⚙️ Current Work
 - Composite Joist Reliability (FE + probabilistic modeling)
 - GPU acceleration (Julia + CUDA)
 - Abaqus ODB diagnostic automation tools
